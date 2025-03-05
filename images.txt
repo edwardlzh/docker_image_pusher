@@ -1,1 +1,2 @@
+# xinference每日版
 xprobe/xinference:nightly-main
